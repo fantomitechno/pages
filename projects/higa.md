@@ -1,3 +1,5 @@
+# Higa
+
 ## What is Higa ?
 It's a random Discord API package builded with randomness by fantomitechno.
 
