@@ -1,0 +1,30 @@
+# My Series List
+
+### Currently Watching
+
+- Shingeki no Kyojin / Attack On Titan
+  - [x] Season 1
+  - [x] Season 2
+  - [x] Season 3
+  - [ ] Season 4 (In progress)
+
+### Watched
+
+- Swort Art Online
+  - [x] Season 1
+  - [x] Season 2
+  - [x] Movie Ordinal Scale
+  - [x] Season Alicization
+  - [x] Season Alicization _ War of Underworld
+  - [x] Movie Progressive
+- Demon Slayer
+  - [x] Season 1
+  - [x] Movie Mugen Train
+  - [x] Season 2
+
+### Want to watch
+
+- Doctor Who (Second serie)
+- Sherlock
+- Assassination Classroom
+- Accel World (Not sur)
