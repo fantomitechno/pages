@@ -15,7 +15,7 @@
   - [x] Season 2
   - [x] Movie Ordinal Scale
   - [x] Season Alicization
-  - [x] Season Alicization _ War of Underworld
+  - [x] Season Alicization - War of Underworld
   - [x] Movie Progressive
 - Demon Slayer
   - [x] Season 1
@@ -28,3 +28,5 @@
 - Sherlock
 - Assassination Classroom
 - Accel World (Not sur)
+- My Hero Academia
+- Hunter X Hunter
