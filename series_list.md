@@ -27,6 +27,7 @@
 - Doctor Who (Second serie)
 - Sherlock
 - Timeless
+- Mentaliste
 - Assassination Classroom
 - Accel World (Not sur)
 - My Hero Academia
