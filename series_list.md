@@ -26,7 +26,9 @@
 
 - Doctor Who (Second serie)
 - Sherlock
+- Timeless
 - Assassination Classroom
 - Accel World (Not sur)
 - My Hero Academia
 - Hunter X Hunter
+- No Game No Life
