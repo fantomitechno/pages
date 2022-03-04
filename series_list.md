@@ -7,6 +7,9 @@
   - [x] Season 2
   - [x] Season 3
   - [ ] Season 4 (In progress)
+- Assassination Classroom
+  - [ ] Season 1
+  - [ ] Season 2
 
 ### Watched
 
@@ -21,6 +24,9 @@
   - [x] Season 1
   - [x] Movie Mugen Train
   - [x] Season 2
+- No Game No Life
+  - [x] Season 1
+  - [x] Movie Zero
 
 ### Want to watch
 
@@ -28,8 +34,6 @@
 - Sherlock
 - Timeless
 - Mentaliste
-- Assassination Classroom
 - Accel World (Not sur)
 - My Hero Academia
 - Hunter X Hunter
-- No Game No Life
