@@ -10,6 +10,8 @@
 - Assassination Classroom (VOSTFR)
   - [x] Season 1
   - [ ] Season 2
+- The Strongest Sage With the Weakest Crest (VF)
+  - [ ] Season 1 (In progress)
 
 ### Watched
 
