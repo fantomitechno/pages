@@ -7,8 +7,8 @@
   - [x] Season 2
   - [x] Season 3
   - [ ] Season 4 (In progress)
-  - [ ] Season 1
 - Assassination Classroom (VOSTFR)
+  - [x] Season 1
   - [ ] Season 2
 
 ### Watched
