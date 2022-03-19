@@ -7,9 +7,9 @@
   - [x] Season 2
   - [x] Season 3
   - [ ] Season 4 (In progress)
-- The Strongest Sage With the Weakest Crest (VF)
+- The Strongest Sage With the Weakest Crest (VOSTFR)
   - [ ] Season 1 (In progress)
-- My Hero Academia (VOSFR)
+- My Hero Academia (VOSTFR)
   - [x] Season 1
   - [ ] Season 2
   - [ ] Movie Two Heroes
