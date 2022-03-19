@@ -7,11 +7,12 @@
   - [x] Season 2
   - [x] Season 3
   - [ ] Season 4 (In progress)
-- Assassination Classroom (VOSTFR)
-  - [x] Season 1
-  - [ ] Season 2
 - The Strongest Sage With the Weakest Crest (VF)
   - [ ] Season 1 (In progress)
+- Assassination Classroom (VOSTFR)
+  - [x] Season 1
+  - [x] Season 2
+  - [ ] Movie J-365
 
 ### Watched
 
