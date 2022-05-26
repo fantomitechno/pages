@@ -2,19 +2,7 @@
 
 ### Currently Watching
 
-- Shingeki no Kyojin / Attack On Titan (VOSTFR)
-  - [x] Season 1
-  - [x] Season 2
-  - [x] Season 3
-  - [ ] Season 4 (In progress)
-- My Hero Academia (VOSTFR)
-  - [x] Season 1
-  - [x] Season 2
-  - [ ] Movie Two Heroes
-  - [x] Season 3
-  - [ ] Season 4 (In progress)
-  - [ ] Movie Heroes Rising
-  - [ ] Season 5
+Nothing here...
 
 ### Watched
 
@@ -38,6 +26,19 @@
   - [x] Movie J-365
 - The Strongest Sage With the Weakest Crest (VOSTFR)
   - [x] Season 1
+- Shingeki no Kyojin / Attack On Titan (VOSTFR)
+  - [x] Season 1
+  - [x] Season 2
+  - [x] Season 3
+  - [x] Season 4
+- My Hero Academia (VOSTFR)
+  - [x] Season 1
+  - [x] Season 2
+  - [ ] Movie Two Heroes
+  - [x] Season 3
+  - [x] Season 4
+  - [ ] Movie Heroes Rising
+  - [x] Season 5
 
 ### Want to watch
 
