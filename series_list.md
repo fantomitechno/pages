@@ -4,6 +4,10 @@
 
 Nothing here...
 
+### Currently Reading
+
+- Hunter X Hunter
+
 ### Watched
 
 - Swort Art Online (VOSTFR)
@@ -46,4 +50,3 @@ Nothing here...
 - Sherlock
 - Timeless
 - Mentaliste
-- Hunter X Hunter
